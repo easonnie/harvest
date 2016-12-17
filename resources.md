@@ -25,5 +25,6 @@ https://git-scm.com/book/en/v2
 # Machine Learning
 
 ### Statistical Learning Theory
-* Statistical Learning Theory and Applications from MIT, video from Fall 2015. Websit:http://www.mit.edu/~9.520/fall16/  
+* Statistical Learning Theory and Applications from MIT, video from Fall 2015.  
+Website:http://www.mit.edu/~9.520/fall16/   
 https://www.youtube.com/playlist?list=PLyGKBDfnk-iDj3FBd0Avr_dLbrU8VG73O
