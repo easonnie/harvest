@@ -15,7 +15,7 @@ More information at http://ocw.mit.edu/6-262S11
 # Programming
 
 ### Functional Programming
-* A book about haskell. (Recommanded by quora)
+* A book about haskell. (Recommanded by quora)  
 http://haskellbook.com/
 
 # Machine Learning
