@@ -18,4 +18,8 @@ More information at http://ocw.mit.edu/6-262S11
 * A book about haskell. (Recommanded by quora)  
 http://haskellbook.com/
 
+### Verson Control
+* Pro Git.  
+https://git-scm.com/book/en/v2
+
 # Machine Learning
