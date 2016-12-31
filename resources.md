@@ -28,3 +28,14 @@ https://git-scm.com/book/en/v2
 * Statistical Learning Theory and Applications from MIT, video from Fall 2015.  
 Website:http://www.mit.edu/~9.520/fall16/   
 https://www.youtube.com/playlist?list=PLyGKBDfnk-iDj3FBd0Avr_dLbrU8VG73O
+
+# Others
+
+### Digital Signal Processing
+* ECSE-4530 Digital Signal Processing  
+Rich Radke, Rensselaer Polytechnic Institute  
+Website:https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUSzx5Jr8Wrxxn-U10qG1et
+
+*  ECE 410: Digital Signal Processing  
+University of Illinois - Digital Signal Processing  
+Website:https://www.youtube.com/playlist?list=PLFFF64D0BD4272F5A
