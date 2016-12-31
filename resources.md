@@ -34,8 +34,8 @@ https://www.youtube.com/playlist?list=PLyGKBDfnk-iDj3FBd0Avr_dLbrU8VG73O
 ### Digital Signal Processing
 * ECSE-4530 Digital Signal Processing  
 Rich Radke, Rensselaer Polytechnic Institute  
-Website:https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUSzx5Jr8Wrxxn-U10qG1et
+https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUSzx5Jr8Wrxxn-U10qG1et
 
 *  ECE 410: Digital Signal Processing  
 University of Illinois - Digital Signal Processing  
-Website:https://www.youtube.com/playlist?list=PLFFF64D0BD4272F5A
+https://www.youtube.com/playlist?list=PLFFF64D0BD4272F5A
