@@ -9,7 +9,8 @@ https://math.berkeley.edu/~hutching/teach/53videos.html
 ### Real Analysis
 * Lectures from Math 131: Real Analysis at Harvey Mudd College, Spring 2010.  
 https://www.youtube.com/playlist?list=PL0E754696F72137EC
-* Book: Understanding Analysis, Stephen Abbott
+* Book: Understanding Analysis, Stephen Abbott  
+* Book: Principles of mathematical analysis Textbook by Walter Rudin  
 
 ### Functional Analysis  
 * A concise video course on Youtube about functional analysis.  
