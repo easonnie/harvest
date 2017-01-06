@@ -7,3 +7,5 @@ Harvest is for collecting learning materials and resources.
 Submodules will contain information about a specific topic.
 
 See [all resources](https://github.com/easonnie/harvest/blob/master/resources.md).
+
+![Relax](https://github.com/easonnie/harvest/blob/master/img/exciting_yemengjun.gif?raw=true)
