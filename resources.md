@@ -9,7 +9,7 @@ https://math.berkeley.edu/~hutching/teach/53videos.html
 https://www.youtube.com/watch?v=cw6pHhjhKmk&list=PL76C4E49892DA89D6
 * MIT 18.02 Multivariable Calculus, Fall 2007  
 https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38  
-https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm(Complete Material for self-study)
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm (Complete Material for self-study)
 
 ### Real Analysis
 * Lectures from Math 131: Real Analysis at Harvey Mudd College, Spring 2010.  
