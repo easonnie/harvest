@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=cw6pHhjhKmk&list=PL76C4E49892DA89D6
 https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38  
 https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm (Complete Material for self-study)
 
-Some links:
+Some links:  
 http://blog.sciencenet.cn/blog-224917-491478.html Math Book recommandation. (In Chinese)  
 https://dahuasky.wordpress.com/2009/01/22/在数学的海洋中飘荡/ Thoughts about math. (In Chinese)
 
