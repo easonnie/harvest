@@ -34,7 +34,8 @@ More information at http://ocw.mit.edu/6-262S11
 
 ### Introduction to Linear Dynamical Systems
 * Lecture from Stanford by Professor Stephen Boyd.  
-https://www.youtube.com/view_play_list?p=06960BA52D0DB32B
+https://www.youtube.com/view_play_list?p=06960BA52D0DB32B  
+HWs:http://web.stanford.edu/class/archive/ee/ee263/ee263.1082/hw/
 
 ### Convex Optimization
 * Lecture from Stanford by Professor Stephen Boyd.  
